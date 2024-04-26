@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\desktop\code\compile\compile\compile\FileName.cpp(319,1): warning C4715: “getWord”: 不是所有的控件路径都返回值
+  compile.vcxproj -> D:\desktop\code\compile\compile\x64\Debug\compile.exe
